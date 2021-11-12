@@ -4,7 +4,7 @@ Computer and Communications Engineering Student
 
 [Email](jason.salem19@hotmail.com) / [Github](https://www.github.com/jasonsalem2002)
 
-### Profile
+### _Profile_
 
 Fresh High-School graduate from Sagesse School in Jdeideh with a Lebanese Baccalaureate in General Sciences with an underlined emphasis on Mathematics and Physics. I am seeking to join a reputable higher-education institution that will provide me with a suitable learning environment and open up the horizons of knowledge in front of me to climb the stairs towards academic and/or industrial excellence. 
 
@@ -13,7 +13,7 @@ I have been highly engaged in both curricular and extra-curricular activities; o
 Reliable, trustworthy, numerable and meticulous, I am able to work on my own initiative or cooperatively with a good team of honest, trustworthy and hardworking members willing to strive for the accomplishment of important tasks, projects and any other kind of work assigned to them. Following appropriate training, I am surely able to deal with reasonable (i.e. suitable for my age and expertise) administrative duties competently.
 
 
-### Projects
+### _Projects_
 
 **Arduino Robot**
 
@@ -52,30 +52,23 @@ I used Kivy Framework in order to develop a chatting application.
 Completely redesigned my car’s head unit, removed the software completely and downloaded a custom rom and modified it.
 
 
-```markdown
-Syntax highlighted code block
+### Languages
 
-# Header 1
-## Header 2
-### Header 3
+**_Arabic_**: fluently spoken and written (Native language)
+**_Frensh_**: fluently spoken and written
+**_English_**: fluently spoken and written
 
-- Bulleted
-- List
+### Education
 
-1. Numbered
-2. List
+**Computer and Communcations Engineering**
 
-**Bold** and _Italic_ and `Code` text
+Notre-Dame University of Louaize 
+September 2020 - Present
 
-[Link](url) and ![Image](src)
-```
+**High-School**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Sagesse Jdeideh School
+September 2018 – June 2020
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jasonsalem2002/MyCv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Saint Famille Fanar Francaise School 
+October 2006 – June 2018 
