@@ -16,49 +16,42 @@ Reliable, trustworthy, numerable and meticulous, I am able to work on my own ini
 ### _Projects_
 
 **Arduino Robot**
-
 An Arduino robot built from ground up that can be controlled with a Bluetooth joystick. This robot’s primary function is to play football. It has two modes: Goalkeeper and Offensive Player. This project won the first place at American University of Science and Technology. 
 
 **Ios Application**
-
 Basic application built for IOS 11-14 for bulk deletion and management of contacts.
 
 **IR Device Manager** 
-
 Connect and control IR devices from my phone using raspberry pi.
 
 **Drinking App**
-
 An application built for android devices that counts how many times a person drank water and how much is left for a full day.
 
 **Remote Administration Tool**
-
 A tool built with python that allows me to monitor and control my own devices with only an internet connection.
 
 **Drone**
-
 Built a drone using Arduino.
 
 **Home Server**
-
 Built with raspberry pi to manage downloads and files and block unwanted ads on LAN.
 
 **Chat Application**
-
 I used Kivy Framework in order to develop a chatting application.
 
 **Head Unit**
-
 Completely redesigned my car’s head unit, removed the software completely and downloaded a custom rom and modified it.
 
 
-### Languages
+### _Languages_
 
 **_Arabic_**: fluently spoken and written (Native language)
+
 **_Frensh_**: fluently spoken and written
+
 **_English_**: fluently spoken and written
 
-### Education
+### _Education_
 
 **Computer and Communcations Engineering**
 
